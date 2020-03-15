@@ -17,6 +17,11 @@ nav {
     border-color: #cccccc;
     width: 100%;
 }
+h5 {
+    color:  #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
 
 h1 {
     color:  #4aaaa5;
