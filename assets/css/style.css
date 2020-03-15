@@ -68,9 +68,20 @@ h3 {
 .Jeffreypic {
     height: 250px;
     width: auto;
-    padding-left: 10px;
-   
+    padding-right: 30px;
+    padding-top: 13px;
+    float: left;
     }
+    
+
+.card-body {
+    float: right;
+
+}
+.picInfo {
+    padding-left: 50px;
+    padding-right: 50px;
+}
 
 .teal {
     background-color: #4aaaa5;
